@@ -1,11 +1,9 @@
-## Hi, Friends. 👋
-### My name is Slava.
+👋 ## Hi, Friends. 
+### My name is Slava. 💻 I am a FullStack engineer
 
-~~~
- 💻 I am a FullStack engineer
-~~~
+> Here you can find some interesting projects. ✅
 
-> Here you can find some interesting projects.
+<img src="https://camo.githubusercontent.com/e71246577cf666ebb1ea5bd0dead97ff1508b4d05a8afb97217ea96caae14309/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-black?style=for-the-badge&amp;logo=css3" style="max-width: 100%;">
 
 
 
