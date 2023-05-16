@@ -1,5 +1,14 @@
 ## Hi, Friends. 👋
-### My name is Slava. 🇺🇦
+### My name is Slava.
+
+~~~
+ 💻 I am a FullStack engineer
+~~~
+
+> Here you can find some interesting projects.
+
+
+
 <!--
 **slavamlinsky/slavamlinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
