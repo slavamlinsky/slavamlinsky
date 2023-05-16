@@ -7,12 +7,9 @@
 <img src="https://camo.githubusercontent.com/e71246577cf666ebb1ea5bd0dead97ff1508b4d05a8afb97217ea96caae14309/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-black?style=for-the-badge&amp;logo=css3" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/c8b980ab27570db824bb780b9937bb9250cda5c0a7d6d71c739e9fb17e58d265/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
-
-
 <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat" alt="Git" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-Nodejs-green?logo=nodejs&logoColor=white&style=flat&style=flat-square" alt="NodeJS" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Nodejs-green?logo=node&logoColor=white&style=flat&style=flat-square" alt="NodeJS" style="max-width: 100%;">
 
 
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
