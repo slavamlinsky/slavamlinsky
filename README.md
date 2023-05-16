@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
 
 
+<img src="https://img.shields.io/badge/-Git-61DAFB?logo=git&logoColor=white&style=flat" alt="Git" style="max-width: 100%;">
+
+
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
 
 
