@@ -9,8 +9,7 @@
 
 <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat" alt="Git" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-Nodejs-green?logo=node&logoColor=white&style=flat&style=flat-square" alt="NodeJS" style="max-width: 100%;">
-
+<img src="https://img.shields.io/badge/-Nodejs-green?logo=nodejs&logoColor=white&style=flat&style=flat-square" alt="NodeJS" style="max-width: 100%;">](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
 
