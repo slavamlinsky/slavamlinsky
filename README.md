@@ -1,7 +1,5 @@
 ## Hi, Friends. 👋 
-### My name is Slava. 💻 I am a FullStack engineer
-
-> Here you can find some interesting projects. ✅
+### My name is Slava. 💻 I am a FullStack engineer from Ukraine (Odesa)
 
 🎓 <img src="https://camo.githubusercontent.com/bdf50d57adbf9d3458fa52c77c8179cc53c9bca0c62bac6f0cb46e7d39b28d92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-black?style=for-the-badge&amp;logo=html5" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e71246577cf666ebb1ea5bd0dead97ff1508b4d05a8afb97217ea96caae14309/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-black?style=for-the-badge&amp;logo=css3" style="max-width: 100%;">
@@ -12,15 +10,17 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="React" style="max-width: 100%;">
 	
 
-> Technologies & FrameWorks
+### Technologies & FrameWorks
  
-<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;"> 
+<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="NodeJS" style="max-width: 100%;">
+
+
 
 
 ### DataBases 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="NodeJS" style="max-width: 100%;"> 
 
-
+> Here you can find some interesting projects. ✅
 
 <!--
 
