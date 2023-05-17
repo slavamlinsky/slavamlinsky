@@ -5,9 +5,9 @@
 
 ### Languages & Technologies
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Sass.Less.PostCss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Less PostCss" style="max-width: 100%;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQUERY" style="max-width: 100%;"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQUERY" style="max-width: 100%;"> 
 
-<img src="https://img.shields.io/badge/Tailwind.CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCss" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" style="max-width: 100%;"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Tailwind.CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCss" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Sass.Less.PostCss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Less PostCss" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" style="max-width: 100%;"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="max-width: 100%;">
 
 ### FrameWorks
 
@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" style="max-width: 100%;"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="GIT" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="JEST" style="max-width: 100%;">
 
-
+<img src="https://camo.githubusercontent.com/45a03924a507eac688fecb03583fd7d94dd3372619459ab9cbfde41cf45b229b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/docker-black?style=for-the-badge&amp;logo=docker" style="max-width: 100%;">
 
 
 
