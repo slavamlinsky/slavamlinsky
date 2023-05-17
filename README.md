@@ -11,23 +11,23 @@
 
 	
 
+### Technologies
+ 
 <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;"> 
 
 
-## DataBases 
+### DataBases 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="NodeJS" style="max-width: 100%;"> 
 
 
 
-
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React" data-canonical-src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" style="max-width: 100%;">
-
+<!--
 
 <a href="https://github.com/slavamlinsky">
     <img src="https://camo.githubusercontent.com/cad9a47d7d0fc7152ee970e75cfac9c60751bf76836d3bf49f34fc9035dbeb04/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d776572766c616426636f6c6f723d626c7565267374796c653d666c617429" data-canonical-src="https://komarev.com/ghpvc/?username=slavamlinskyP&amp;color=blue&amp;style=flat)" style="max-width: 100%;">
   </a>
 
-<!--
+
 **slavamlinsky/slavamlinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
