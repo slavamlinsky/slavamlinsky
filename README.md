@@ -11,8 +11,8 @@
 	
 
 ### Technologies & FrameWorks
- 
-<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="NodeJS" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="NodeJS" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="NodeJS" style="max-width: 100%;">
 
 
 
