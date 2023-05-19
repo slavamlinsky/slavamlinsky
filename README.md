@@ -1,7 +1,7 @@
 ## Hi, Friends. 👋 
 ### My name is Slava. 💻 I am a FullStack engineer from Ukraine (Odesa)
 
-🎓 Down below you may find the list of technologies that I use in development.
+> Down below you may find the list of technologies that I use in development.🎓 
 
 ### Languages & Technologies
 
